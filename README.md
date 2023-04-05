@@ -1,6 +1,6 @@
-# Project Name
+# chartyboard
 
-This project is a dashboard page made using Vite and React, and includes the Material UI library.
+This project is a dashboard page made using Vite and React, and includes the Material UI library,react-chartjs2.
 
 # Installation
 
@@ -8,6 +8,10 @@ To install this project, you will need to have Node.js and npm installed on your
 
 npm install
 This will install all the necessary dependencies for the project.
+
+## Hosted
+
+Hosted on netlify to access the site go to https://chartyboard.netlify.app/
 
 ### Usage
 
